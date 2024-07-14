@@ -1,0 +1,10 @@
+.main-layout {
+  /* border: 2px solid red; */
+  display: flex;
+}
+
+.content-area {
+  width: 85%;
+  height: 92vh;
+  overflow-y: auto;
+}

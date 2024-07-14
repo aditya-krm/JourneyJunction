@@ -1,0 +1,27 @@
+.profile-tabs {
+    margin-top: 20px;
+  }
+  
+  .tabs {
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .tab-button {
+    padding: 10px 20px;
+    border: none;
+    background: none;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .tab-button.active {
+    border-bottom: 2px solid #1DA1F2;
+    color: #1DA1F2;
+  }
+  
+  .tab-content {
+    padding: 20px;
+  }
+  

@@ -1,0 +1,20 @@
+.left-side-component{
+    width: 96%;
+    height: 6vh;
+    display: flex;
+    align-items: center;
+    gap: 4%;
+    margin: 2%;
+    border-radius: 5px;
+    padding: 0 1%;
+    background-color: #f0f0f02b;
+}
+.left-side-component:hover{
+    background-color: #f0f0f088;
+    border: 1px solid #64646469;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 1.2em;
+}

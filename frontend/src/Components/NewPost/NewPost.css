@@ -1,0 +1,50 @@
+.new-post-box{
+    width: 80%;
+    height: 11vh;
+    display: flex;
+    background: #605f5f4f;
+    border-radius: 5px;
+    align-items: center;
+    margin: 20px auto;
+}
+.profileicon{
+    max-width: 50px;
+    max-height: 50px;
+    border-radius: 50%;
+    margin-left: 10px;
+    background-color: black;
+    overflow: hidden;
+}
+.profileicon img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.fake-input {
+    width: 85%;
+    height: 55%;
+    padding: 10px;
+    margin-left: 20px;
+    border: 1px solid #ccc;
+    border-radius: 25px;
+    font-size: 18px;
+    cursor: pointer;
+    background-color: white;
+    color: #555;
+}
+
+.fake-input:hover {
+  background-color: #f0f0f0;
+}
+/* #postinput{
+    width: 85%;
+    height: 55%;
+    padding-left: 20px;
+    margin-left: 20px;
+    border: none;
+    outline: none;
+    border-radius: 25px;
+    font-size: 18px;
+    cursor: pointer;
+} */

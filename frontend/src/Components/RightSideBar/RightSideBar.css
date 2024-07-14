@@ -1,0 +1,20 @@
+.progress-bar-box{
+    width: 24%;
+    min-height: 60%;
+    height: auto;
+    margin-right: 1%;
+    border-radius: 8px;
+    padding: 10px;
+    backdrop-filter: blur(10px);
+    background-color: rgba(255, 255, 255, 0.016);
+    border: 1px solid rgba(0, 0, 0, 0.212);
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.264); 
+}
+.progress-bar-box h3{
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.goal-progress{
+    margin-top: 10px;
+}
